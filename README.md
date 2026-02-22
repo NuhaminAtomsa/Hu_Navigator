@@ -1,1 +1,1 @@
-# Hu_Navigator
+# Haramaya Department Navigator
