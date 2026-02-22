@@ -1,1 +1,1 @@
-# Haramaya Department Navigator
+# Haramaya-Navigator
